@@ -4,6 +4,8 @@
 
 ### Example diagram
 
+![diagram](https://github.com/XutongLi/LCX-Port-Mapper/blob/master/diagram/diagram.PNG  "diagram")
+
 ***
 
 ### Version 1
